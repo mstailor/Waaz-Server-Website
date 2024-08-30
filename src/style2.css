@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border-radius: 50px;
+    border-color: orange;
+    margin-top: 10%;
+}
+
+h3{
+    display: inline;
+}
+
+iframe{
+    margin-left: 35%;
+}
+
+footer{
+    text-align: center;
+}
